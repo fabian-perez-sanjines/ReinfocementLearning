@@ -1,1 +1,1 @@
-% algorithms of Reinforcement Learning
+5 algorithms of Reinforcement Learning
